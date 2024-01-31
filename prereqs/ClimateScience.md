@@ -1,6 +1,6 @@
 # Prerequisites and preparatory materials for Computational Tools for Climate Science
 
-Welcome to the [Climatematch Academy](https://academy.climatematch.io/about/mission)! We're really excited to bring this course to such a wide and varied audience. We want to make sure every student is able to follow and enjoy the academy. This means you need to know the basics of programming in Python, math and science core concepts. Below 👇 we provide more details for each.
+Welcome to [Computational Tools for Climate Science](https://academy.climatematch.io/about/mission)! We are very excited to bring this course to such a wide and varied audience. We want to make sure every student is able to follow and enjoy the materials presented during the course. In order to get the most out of the materials we offer, we expect our students to know the basics of programming in Python, as well core concepts in math and science. Below 👇 we provide more details for each.
 
 ## Contents
 
@@ -18,18 +18,23 @@ Welcome to the [Climatematch Academy](https://academy.climatematch.io/about/miss
 ## Programming
 
 
-We expect students to be familiar with the following topics in Python: variables, lists, dictionaries, the numpy, matplotlib, cartopy, datetime, pandas and data formats. Students who are not familiar with some of the topics mentioned before, are required to take the **Python pre-course**, which offers asynchronous support for a selection of tutorials from Project Pythia. 
+We expect students to be familiar with fundamental Python and data storage concepts (variables, lists, dictionaries, data formats) as well as some key Python libraries (numpy, matplotlib, cartopy, datetime, pandas, XArray).  If these feel unfamiliar, we **highly recommend** you take our refresher **Python pre-course**. It is a selection of Project Pythia tutorials (outlined below) that you will work through asynchronously *before* the course begins. 
 
 What is Project Pythia? Check out the fantastic [~5min video](https://bit.ly/42P799Y) that Julia Kent prepared for you as an intro to this fabulous material.
 
-Now, let's sumarize what are the lessons you need to review:
+Below are the lessons you need to review, to get started with a tutorial just click on the on the rocket icon at the top right of each tutorial notebook to launch the Binder
 
-- [Preamble and Foundational Skills](https://bit.ly/4429kYQ): Overview, Why Python, Quickstart: Zero to Python (under the heading “Getting Started with Python”), JupyterLab (under the heading “Getting Started with Jupyter”), What is Github (under the heading “Getting Started with GitHub”) (~3.5 hours)
-    
-- Core Scientific Python Packages: NumPy, Matplotlib, Cartopy, Datetime, Pandas, Data formats (~6 hours). Xarray will be a part of the course Computational Tools for Climate Science, so you do not need to learn it beforehand.
-    
+- [Preamble and Foundational Skills](https://bit.ly/4429kYQ):
 
-- Here [is a breakdown of times per lesson](https://bit.ly/3CHhjid). The topics highlighted in blue are the only mandatory lessons that we expected you have covered in preparation for the course Computational Tools for Climate Science. 
+| Tutorial and Link | Approximate Time to Complete (minutes) |
+| ----------- | ----------- | ----------- |
+| [Interacting with Jupyter Notebooks in the cloud via Binder](https://foundations.projectpythia.org/preamble/how-to-use.html#interacting-with-jupyter-notebooks-in-the-cloud-via-binder)  | 10 |
+| [Why Python?](https://foundations.projectpythia.org/foundations/why-python.html) | 15  |
+| [Quickstart: Zero to Python](https://foundations.projectpythia.org/foundations/quickstart.html) | 90 |
+
+- Why Python? and  Quickstart: Zero to Python (under the heading “Getting Started with Python”) tutorials (~2 hours)
+    
+- Core Scientific Python Packages: all tutorials (~6 hours).
     
 
   
