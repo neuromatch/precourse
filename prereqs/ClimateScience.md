@@ -18,28 +18,37 @@ Welcome to [Computational Tools for Climate Science](https://academy.climatematc
 ## Programming
 
 
-We expect students to be familiar with fundamental Python and data storage concepts (variables, lists, dictionaries, data formats) as well as some key Python libraries (numpy, matplotlib, cartopy, datetime, pandas, XArray).  If these feel unfamiliar, we **highly recommend** you take our refresher **Python pre-course**. It is a selection of Project Pythia tutorials (outlined below) that you will work through asynchronously *before* the course begins. 
+We expect students to be familiar with fundamental Python and data storage concepts (variables, lists, dictionaries, data formats) as well as some key Python libraries (NumPy, matplotlib, cartopy, datetime, pandas, XArray).  If these feel unfamiliar, we **highly recommend** you take our refresher **Python pre-course**. It is a selection of Project Pythia tutorials (outlined below) that you will work through asynchronously *before* the course begins. 
 
 What is Project Pythia? Check out the fantastic [~5min video](https://bit.ly/42P799Y) that Julia Kent prepared for you as an intro to this fabulous material.
 
 Below are the lessons you need to review, to get started with a tutorial just click on the on the rocket icon at the top right of each tutorial notebook to launch the Binder
 
-- [Preamble and Foundational Skills](https://bit.ly/4429kYQ):
+### [Preamble and Foundational Skills](https://bit.ly/4429kYQ) (~3 hours)
 
-| Tutorial and Link | Approximate Time to Complete (minutes) |
+| Tutorial Section and Link | Approximate Time to Complete (minutes) |
 | ----------- | ----------- |
 | [Interacting with Jupyter Notebooks in the cloud via Binder](https://foundations.projectpythia.org/preamble/how-to-use.html#interacting-with-jupyter-notebooks-in-the-cloud-via-binder)  | 10 |
 | [Why Python?](https://foundations.projectpythia.org/foundations/why-python.html) | 15  |
 | [Quickstart: Zero to Python](https://foundations.projectpythia.org/foundations/quickstart.html) | 90 |
-
-- Why Python? and  Quickstart: Zero to Python (under the heading “Getting Started with Python”) tutorials (~2 hours)
+| [Jupyterlab](https://foundations.projectpythia.org/foundations/jupyterlab.html) | 50 |
     
-- Core Scientific Python Packages: all tutorials (~6 hours).
+### [Core Scientific Python Packages](https://foundations.projectpythia.org/core/overview.html)(~6 hours).
     
+| Tutorial Section and Link | Approximate Time to Complete (minutes) |
+| ----------- | ----------- |
+| [Overview](https://foundations.projectpythia.org/core/overview.html)  | 10 |
+| [NumPy](https://foundations.projectpythia.org/core/numpy.html) | 85  |
+| [Matplotlib](https://foundations.projectpythia.org/core/matplotlib.html) | 100 |
+| [Cartopy]([https://foundations.projectpythia.org/core/matplotlib.html](https://foundations.projectpythia.org/core/cartopy.html)) | 30 |
+| [Datetime](https://foundations.projectpythia.org/core/datetime.html) | 30 |
+| [Pandas](https://foundations.projectpythia.org/core/pandas.html) | 60 |
+| [Data Formats](https://foundations.projectpythia.org/core/data-formats.html) | 50 |
+| Optional (will be covered on first day in course materials): [Xarray](https://foundations.projectpythia.org/core/xarray.html) | 150 |
 
-  
+<span style="color:red">You will work through the material at your own pace, getting asynchronous help on Discord as needed during July 12-14. </span>
 
-You will work through the material at your own pace, getting asynchronous help on Discord as needed during July 12-14. To ensure clarity and set proper expectations, let’s revisit what you can expect from the **Python pre-course** and what you should not expect.
+To ensure clarity and set proper expectations, let’s revisit what you can expect from the **Python pre-course** and what you should not expect.
 
 **What You Can Expect from the Python pre-course**
 
