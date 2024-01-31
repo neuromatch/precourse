@@ -69,7 +69,7 @@ To ensure clarity and set proper expectations, let’s revisit what you can expe
 - If nothing works, please don’t panic. Sometimes depending on your region, your internet access, and your computer, some challenges may arise, but we will be happy to assist you. Please email  [python_precourse@climatematch.io](mailto:python_precourse@climatematch.io) if you need help.
     
 
-### What You Should Not Expect from the Python Pre-course**
+### What You Should Not Expect from the Python Pre-course
 
 - Guided Instruction: Please be aware that the Python pre-course does not include virtual online classes or guided instruction. While our team will be available for support via ** CHECK Discord chat during July 12-14**, it is on you to study the material independently and seek clarification as needed.
 
