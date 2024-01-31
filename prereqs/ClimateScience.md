@@ -27,7 +27,7 @@ Below are the lessons you need to review, to get started with a tutorial just cl
 - [Preamble and Foundational Skills](https://bit.ly/4429kYQ):
 
 | Tutorial and Link | Approximate Time to Complete (minutes) |
-| ----------- | ----------- | ----------- |
+| ----------- | ----------- |
 | [Interacting with Jupyter Notebooks in the cloud via Binder](https://foundations.projectpythia.org/preamble/how-to-use.html#interacting-with-jupyter-notebooks-in-the-cloud-via-binder)  | 10 |
 | [Why Python?](https://foundations.projectpythia.org/foundations/why-python.html) | 15  |
 | [Quickstart: Zero to Python](https://foundations.projectpythia.org/foundations/quickstart.html) | 90 |
