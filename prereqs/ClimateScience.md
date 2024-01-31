@@ -1,6 +1,6 @@
 # Prerequisites and preparatory materials for Computational Tools for Climate Science
 
-Welcome to [Computational Tools for Climate Science](https://academy.climatematch.io/about/mission)! We are very excited to bring this course to such a wide and varied audience. We want to make sure every student is able to follow and enjoy the materials presented during the course. In order to get the most out of the materials we offer, we expect our students to know the basics of programming in Python, as well core concepts in math and science. Below 👇 we provide more details for each.
+Welcome to [Climatematch Academy](https://academy.climatematch.io/about/mission)! We are very excited to bring *Computational Tools for Climate Sceince* to such a wide and varied audience. We want to make sure every student is able to follow and enjoy the materials presented during the course. In order to get the most out of the materials we offer, we expect our students to know the basics of programming in Python, as well core concepts in math and science. Below 👇 we provide more details for each.
 
 ## Contents
 
@@ -22,7 +22,9 @@ We expect students to be familiar with fundamental Python and data storage conce
 
 What is Project Pythia? Check out the fantastic [~5min video](https://bit.ly/42P799Y) that Julia Kent prepared for you as an intro to this fabulous material.
 
-Below are the lessons you need to review, to get started with a tutorial just click on the on the rocket icon at the top right of each tutorial notebook to launch the Binder
+Below are the lessons you need to review. **To get started with a tutorial just click on the on the rocket icon at the top right of each tutorial notebook to launch in Binder (see more instructoins [here](https://foundations.projectpythia.org/preamble/how-to-use.html#interacting-with-jupyter-notebooks-in-the-cloud-via-binder))!** If you’re from a Matlab background, you may find reviewing [this cheatsheet](https://cheatsheets.quantecon.org/) helpful before you get started.
+
+![Launch Binder](../images/binder.png)
 
 ### [Preamble and Foundational Skills](https://bit.ly/4429kYQ) (~3 hours)
 
@@ -44,61 +46,38 @@ Below are the lessons you need to review, to get started with a tutorial just cl
 | [Datetime](https://foundations.projectpythia.org/core/datetime.html) | 30 |
 | [Pandas](https://foundations.projectpythia.org/core/pandas.html) | 60 |
 | [Data Formats](https://foundations.projectpythia.org/core/data-formats.html) | 50 |
-| Optional (will be covered on first day in course materials): [Xarray](https://foundations.projectpythia.org/core/xarray.html) | 150 |
+| Optional (will be covered in the first day of course materials): [Xarray](https://foundations.projectpythia.org/core/xarray.html) | 150 |
 
-<span style="color:red">You will work through the material at your own pace, getting asynchronous help on Discord as needed during July 12-14. </span>
+**You will work through the material at your own pace, getting asynchronous help on **Discord as needed during July 12-14. NEED TO CONFIRM THIS** 
 
 To ensure clarity and set proper expectations, let’s revisit what you can expect from the **Python pre-course** and what you should not expect.
 
-**What You Can Expect from the Python pre-course**
+### What You Can Expect from the Python Pre-course
 
-- Asynchronous Support via Discord: Throughout the duration of the precourse, (July 12-14), our team will provide support through the Discord platform. You will have the opportunity to ask questions and seek assistance via chat. Please note that we will not be conducting any video calls or virtual classes during the Python pre-course.
+- Asynchronous Support via Discord: ** CHECK THIS Throughout the duration of the precourse, (July 12-14)**, our team will provide support through the Discord platform. You will have the opportunity to ask questions and seek assistance via chat. Please note that we will not be conducting any video calls or virtual classes during the Python pre-course.
+
+- Self-Study Approach: The precourse is not designed as a traditional course with lectures and guided lessons. Instead, we have curated a collection of comprehensive learning materials for you to study independently. These materials are accessible through the links provided. It is essential that you dedicate sufficient time and effort to self-study the content at your own pace through the links provided above.
     
-
-  
-
-- Self-Study Approach: The precourse is not designed as a traditional course with lectures and guided lessons. Instead, we have curated a collection of comprehensive learning materials for you to study independently. These materials are accessible through the link provided. It is essential that you dedicate sufficient time and effort to self-study the content at your own pace.
+- Prior Programming Experience Advantage: If you have prior experience in programming, you may find this pre-course relatively easier to grasp. 
     
-- Prior Programming Experience Advantage: If you have prior experience in programming, you may find this precourse relatively easier to grasp. 
+ - For those without any previous programming background, it is crucial to start studying the material well in advance. We recommend beginning as early as possible to ensure you have ample time to cover the content. Practice every day and you'll be in great shape before the course begins.
     
+- You won't need to install Python on your computer for the Python pre-course. All you need to do is click the rocket-shaped button in the upper right corner of the lessons ** CHECK THIS TOO I DIDNT NEED TO SIGN IN and sign in using your Github account**. 
 
- - For those without any previous programming background, it is crucial to start studying the material well in advance. We recommend beginning as early as possible to ensure you have ample time to cover the content. Practice every day and you'll be in great shape before July 17th.
-    
-- You won't need to install Python on your computer for the Python pre-course. You literally just need to hit the rocket-shaped button in the upper right corner of the lessons (see image below) and sign in using your Github account. 
-![Launch Binder](../images/binder.png)
-
- 
-
-  
-
-- The section [“How to use this book”](https://foundations.projectpythia.org/preamble/how-to-use.html#how-to-use-this-book) provides you with alternative options to run the Python code.
+- The section [“How to use this book”](https://foundations.projectpythia.org/preamble/how-to-use.html#how-to-use-this-book) provides you with alternative options to run the Python code should you need to.
 
 - If nothing works, please don’t panic. Sometimes depending on your region, your internet access, and your computer, some challenges may arise, but we will be happy to assist you. Please email  [python_precourse@climatematch.io](mailto:python_precourse@climatematch.io) if you need help.
     
 
-**What You Should Not Expect  from the Python pre-course**
+### What You Should Not Expect from the Python Pre-course**
 
-- Guided Instruction: Please be aware that the Python precourse does not include virtual online classes or guided instruction. While our team will be available for support via Discord chat during July 12-14, the onus is on you to study the material independently and seek clarification as needed.
+- Guided Instruction: Please be aware that the Python pre-course does not include virtual online classes or guided instruction. While our team will be available for support via ** CHECK Discord chat during July 12-14**, it is on you to study the material independently and seek clarification as needed.
+
+- Traditional Classroom Environment: Unlike traditional courses where you attend classes and follow a set schedule, the pre-course relies on your self-motivation and discipline to study the provided materials. There will not be any fixed class times or mandatory attendance.
+
+- In-depth Coverage of Advanced Topics: The Python pre-course primarily focuses on introducing the fundamentals of Python programming. It does not delve into advanced topics. We recommend the [Software carpentry 1-day Python tutorial](https://swcarpentry.github.io/python-novice-inflammation/) or the free Edx course [Using Python for Research](https://www.edx.org/course/using-python-for-research). For a more in-depth intro, see the [scipy lecture notes](https://scipy-lectures.org/). Finally, you can follow the [Python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), which also has a print edition. 
+
     
-
-  
-
-- Traditional Classroom Environment: Unlike traditional courses where you attend classes and follow a set schedule, the precourse relies on your self-motivation and discipline to study the provided materials. There will not be any fixed class times or mandatory attendance.
-    
-
-  
-
-- In-depth Coverage of Advanced Topics: The Python pre-course primarily focuses on introducing the fundamentals of Python programming. It does not delve into advanced topics.
-    
-
-  
-
->Extra material
->
->We recommend the [Software carpentry 1-day Python tutorial](https://swcarpentry.github.io/python-novice-inflammation/) or the free Edx course [Using Python for Research](https://www.edx.org/course/using-python-for-research). For a more in-depth intro, see the [scipy lecture notes](https://scipy-lectures.org/). Finally, you can follow the [Python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), which also has a print edition. 
-If you're coming from a Matlab background, you can quickly get up to speed with [this cheatsheet](https://cheatsheets.quantecon.org/). 
-
-
 ## Math 
 
   
