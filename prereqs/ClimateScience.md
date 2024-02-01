@@ -42,7 +42,7 @@ Below are the lessons you need to review. **To get started with a tutorial just 
 | [Overview](https://foundations.projectpythia.org/core/overview.html)  | 10 |
 | [NumPy](https://foundations.projectpythia.org/core/numpy.html) | 85  |
 | [Matplotlib](https://foundations.projectpythia.org/core/matplotlib.html) | 100 |
-| [Cartopy]([https://foundations.projectpythia.org/core/matplotlib.html](https://foundations.projectpythia.org/core/cartopy.html) | 30 |
+| [Cartopy](https://foundations.projectpythia.org/core/cartopy.html) | 30 |
 | [Datetime](https://foundations.projectpythia.org/core/datetime.html) | 30 |
 | [Pandas](https://foundations.projectpythia.org/core/pandas.html) | 60 |
 | [Data Formats](https://foundations.projectpythia.org/core/data-formats.html) | 50 |
