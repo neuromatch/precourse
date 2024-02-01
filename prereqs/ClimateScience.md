@@ -58,7 +58,7 @@ To ensure clarity and set proper expectations, let’s revisit what you can expe
     
 - For those with less of a programming background, it is crucial to study the material well in advance. We recommend beginning as early as possible to ensure you have ample time to cover the content. Practice every day and you'll be in great shape before the course begins.
     
-- You won't need to install Python on your computer for the Python pre-course. All you need to do is click the rocket-shaped button in the upper right corner of the lessons ** CHECK THIS TOO I DIDNT NEED TO SIGN IN and sign in using your Github account**. 
+- You won't need to install Python on your computer for the Python pre-course. All you need to do is click the rocket-shaped button in the upper right corner of the lessons and sign in using your Github account if needed. 
 
 - The section [“How to use this book”](https://foundations.projectpythia.org/preamble/how-to-use.html#how-to-use-this-book) provides you with alternative options to run the Python code should you need to.
 
