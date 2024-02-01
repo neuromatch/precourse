@@ -22,7 +22,7 @@ We expect students to be familiar with fundamental Python and data storage conce
 
 What is Project Pythia? Check out the fantastic [~5min video](https://bit.ly/42P799Y) that Julia Kent prepared for you as an intro to this fabulous material.
 
-Below are the lessons you need to review. **To get started with a tutorial just click on the on the rocket icon at the top right of each tutorial notebook to launch in Binder (see image below and more instructoins [here](https://foundations.projectpythia.org/preamble/how-to-use.html#interacting-with-jupyter-notebooks-in-the-cloud-via-binder))!** If you’re from a Matlab background, you may find reviewing [this cheatsheet](https://cheatsheets.quantecon.org/) helpful before you get started.
+Below are the lessons you need to review. **To get started with a tutorial just click on the on the rocket icon at the top right of each tutorial notebook and then clikc the 'launch in Binder' button that appears (see image below and more instructoins [here](https://foundations.projectpythia.org/preamble/how-to-use.html#interacting-with-jupyter-notebooks-in-the-cloud-via-binder))!** If you’re from a Matlab background, you may find reviewing [this cheatsheet](https://cheatsheets.quantecon.org/) helpful before you get started.
 
 ![Launch Binder](../images/binder.png)
 
