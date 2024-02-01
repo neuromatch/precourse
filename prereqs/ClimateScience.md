@@ -26,7 +26,7 @@ Below are the lessons you need to review. **To get started with a tutorial just 
 
 ![Launch Binder](../images/binder.png)
 
-### [Preamble and Foundational Skills](https://bit.ly/4429kYQ) (~3 hours)
+### Preamble and Foundational Skills (~3 hours)
 
 | Tutorial Section and Link | Approximate Time to Complete (minutes) |
 | ----------- | ----------- |
@@ -35,7 +35,7 @@ Below are the lessons you need to review. **To get started with a tutorial just 
 | [Quickstart: Zero to Python](https://foundations.projectpythia.org/foundations/quickstart.html) | 90 |
 | [Jupyterlab](https://foundations.projectpythia.org/foundations/jupyterlab.html) | 50 |
     
-### [Core Scientific Python Packages](https://foundations.projectpythia.org/core/overview.html)(~6 hours)
+### Core Scientific Python Packages (~6 hours)
     
 | Tutorial Section and Link | Approximate Time to Complete (minutes) |
 | ----------- | ----------- |
