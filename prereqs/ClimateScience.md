@@ -35,14 +35,14 @@ Below are the lessons you need to review. **To get started with a tutorial just 
 | [Quickstart: Zero to Python](https://foundations.projectpythia.org/foundations/quickstart.html) | 90 |
 | [Jupyterlab](https://foundations.projectpythia.org/foundations/jupyterlab.html) | 50 |
     
-### [Core Scientific Python Packages](https://foundations.projectpythia.org/core/overview.html)(~6 hours).
+### [Core Scientific Python Packages](https://foundations.projectpythia.org/core/overview.html)(~6 hours)
     
 | Tutorial Section and Link | Approximate Time to Complete (minutes) |
 | ----------- | ----------- |
 | [Overview](https://foundations.projectpythia.org/core/overview.html)  | 10 |
 | [NumPy](https://foundations.projectpythia.org/core/numpy.html) | 85  |
 | [Matplotlib](https://foundations.projectpythia.org/core/matplotlib.html) | 100 |
-| [Cartopy]([https://foundations.projectpythia.org/core/matplotlib.html](https://foundations.projectpythia.org/core/cartopy.html)) | 30 |
+| [Cartopy]([https://foundations.projectpythia.org/core/matplotlib.html](https://foundations.projectpythia.org/core/cartopy.html) | 30 |
 | [Datetime](https://foundations.projectpythia.org/core/datetime.html) | 30 |
 | [Pandas](https://foundations.projectpythia.org/core/pandas.html) | 60 |
 | [Data Formats](https://foundations.projectpythia.org/core/data-formats.html) | 50 |
