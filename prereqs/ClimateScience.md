@@ -18,11 +18,11 @@ Welcome to [Climatematch Academy](https://academy.climatematch.io/about/mission)
 ## Programming
 
 
-We expect students to be familiar with fundamental Python and data storage concepts (variables, lists, dictionaries, data formats) as well as some key Python libraries (NumPy, matplotlib, cartopy, datetime, pandas, XArray).  If these feel unfamiliar, we **highly recommend** you take our refresher **Python pre-course**. It is a selection of Project Pythia tutorials (outlined below) that you will work through asynchronously *before* the course begins at your own pace.
+We expect students to be familiar with fundamental Python and data storage concepts (variables, lists, dictionaries, data formats) as well as some key Python libraries (NumPy, matplotlib, cartopy, datetime, pandas, XArray).  If these feel a little unfamiliar, you are coming from another programming language, or you just want to make sure you are up to speed for the course, we **highly recommend** you take our **Python Refresher**. It is a selection of Project Pythia tutorials (outlined below) that you will work through asynchronously *before* the course begins at your own pace.
 
 What is Project Pythia? Check out the fantastic [~5min video](https://bit.ly/42P799Y) that Julia Kent prepared for you as an intro to this fabulous material.
 
-Below are the lessons you need to review. **To get started with a tutorial just click on the on the rocket icon at the top right of each tutorial notebook and then clikc the 'launch in Binder' button that appears (see image below and more instructoins [here](https://foundations.projectpythia.org/preamble/how-to-use.html#interacting-with-jupyter-notebooks-in-the-cloud-via-binder))!** If you’re from a Matlab background, you may find reviewing [this cheatsheet](https://cheatsheets.quantecon.org/) helpful before you get started.
+Below are the lessons you need to review. **To get started with a tutorial just click on the on the rocket icon at the top right of each tutorial notebook and then click the 'Binder' button that appears ro launch the tutorial (see image below and more instructoins [here](https://foundations.projectpythia.org/preamble/how-to-use.html#interacting-with-jupyter-notebooks-in-the-cloud-via-binder))!** If you’re from a Matlab background, you may find reviewing [this cheatsheet](https://cheatsheets.quantecon.org/) helpful before you get started.
 
 ![Launch Binder](../images/binder.png)
 
@@ -50,28 +50,28 @@ Below are the lessons you need to review. **To get started with a tutorial just 
 
 To ensure clarity and set proper expectations, let’s revisit what you can expect from the **Python pre-course** and what you should not expect.
 
-### What You Can Expect from the Python Pre-course
+### What You Can Expect from the Python Refresher
 
-- Self-Study Approach: The precourse is *not* designed as a traditional course with lectures and guided lessons. Instead, we have curated a collection of comprehensive learning materials for you to study independently.  It is essential that you dedicate sufficient time and effort to self-study the content at your own pace through the links provided above.
+- Self-Study Approach: The refresher is *not* designed as a traditional course with lectures and guided lessons. Instead, we have curated a collection of comprehensive learning materials for you to study independently.  It is essential that you dedicate sufficient time and effort to self-study the content at your own pace through the links provided above.
     
-- Prior Programming Experience Advantage: If you have prior experience in programming, you may find this pre-course relatively easy to grasp. 
+- Prior Programming Experience Advantage: If you have a large degree of prior experience in programming, you may find this refresher relatively easy to grasp. 
     
 - For those with less of a programming background, it is crucial to study the material well in advance. We recommend beginning as early as possible to ensure you have ample time to cover the content. Practice every day and you'll be in great shape before the course begins.
     
-- You won't need to install Python on your computer for the Python pre-course. All you need to do is click the rocket-shaped button in the upper right corner of the lessons and sign in using your Github account if needed. 
+- You won't need to install Python on your computer for the Python refresher. All you need to do is click the rocket-shaped button in the upper right corner of the lessons.
 
 - The section [“How to use this book”](https://foundations.projectpythia.org/preamble/how-to-use.html#how-to-use-this-book) provides you with alternative options to run the Python code should you need to.
 
 - If nothing works, please don’t panic. Sometimes depending on your region, your internet access, and your computer, some challenges may arise, but we will be happy to assist you. Please email  [nma@neuromatch.io](mailto:nma@neuromatch.io) if you need help.
     
 
-### What You Should Not Expect from the Python Pre-course
+### What You Should Not Expect from the Python Refresher
 
-- Guided Instruction: Please be aware that the Python pre-course does not include virtual online classes or guided instruction.  It is on you to study the material independently and seek clarification as needed from existing online resources.
+- Guided Instruction: Please be aware that the Python refresher does not include virtual online classes or guided instruction.  It is on you to study the material independently and seek clarification as needed from existing online resources.
 
-- Traditional Classroom Environment: Unlike traditional courses where you attend classes and follow a set schedule, the pre-course relies on your self-motivation and discipline to study the provided materials. There will not be any fixed class times or mandatory attendance.
+- Traditional Classroom Environment: Unlike traditional courses where you attend classes and follow a set schedule, the refresher relies on your self-motivation and discipline to study the provided materials. There will not be any fixed class times or mandatory attendance.
 
-- In-depth Coverage of Advanced Topics: The Python pre-course primarily focuses on introducing the fundamentals of Python programming. It does not delve into advanced topics. We recommend the [Software carpentry 1-day Python tutorial](https://swcarpentry.github.io/python-novice-inflammation/) or the free Edx course [Using Python for Research](https://www.edx.org/course/using-python-for-research). For a more in-depth intro, see the [scipy lecture notes](https://scipy-lectures.org/). Finally, you can follow the [Python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), which also has a print edition. 
+- In-depth Coverage of Advanced Topics: The Python refresher primarily focuses on introducing the fundamentals of Python programming. It does not delve into advanced topics. We recommend the [Software carpentry 1-day Python tutorial](https://swcarpentry.github.io/python-novice-inflammation/) or the free Edx course [Using Python for Research](https://www.edx.org/course/using-python-for-research). For a more in-depth intro, see the [scipy lecture notes](https://scipy-lectures.org/). Finally, you can follow the [Python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), which also has a print edition. 
 
     
 ## Math 
