@@ -62,7 +62,7 @@ To ensure clarity and set proper expectations, let’s revisit what you can expe
 
 - The section [“How to use this book”](https://foundations.projectpythia.org/preamble/how-to-use.html#how-to-use-this-book) provides you with alternative options to run the Python code should you need to.
 
-- If nothing works, please don’t panic. Sometimes depending on your region, your internet access, and your computer, some challenges may arise, but we will be happy to assist you. Please email  [python_precourse@climatematch.io](mailto:python_precourse@climatematch.io) if you need help.
+- If nothing works, please don’t panic. Sometimes depending on your region, your internet access, and your computer, some challenges may arise, but we will be happy to assist you. Please email  [nma@neuromatch.io](mailto:nma@neuromatch.io) if you need help.
     
 
 ### What You Should Not Expect from the Python Pre-course
